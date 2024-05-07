@@ -1,0 +1,2 @@
+# Custom GPT with LangChain and your Data
+In this GitHub repository I showcase how to create a custom GPT model using the power of LangChain and your own data! This project is designed for developers, data scientists, and AI enthusiasts who want to explore LLM's with a personalized twist.
